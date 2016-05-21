@@ -1,4 +1,4 @@
-<h3>PHP for Data Structures and Algorithms</h3>
+<h3>PHP for Algorithms and Interview</h3>
 
 **Find the Missing Element** - finder.php.
 Consider an array of non-negative integers. A second array is formed by shuffling the elements of the first array and deleting a random element. Given these two arrays, find which element is missing in the second array.
