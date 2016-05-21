@@ -22,12 +22,12 @@ Given an integer array, output all the unique pairs that sum up to a specific va
 
 So the input:
 
-  pair_sum([[2, 3, 1, 4, 6, 5], 5)
+__pair_sum([[2, 3, 1, 4, 6, 5], 5)
 
 would return 2 pairs:
 
-  (2,3)
-  (1,2)
+__(2,3)__
+__(1,2)
 
 
 
