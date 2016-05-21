@@ -27,7 +27,7 @@ pair_sum([[2, 3, 1, 4, 6, 5], 5)
 would return 2 pairs:
 
 (2,3)  
-(1,2)
+(1,4)
 
 
 
