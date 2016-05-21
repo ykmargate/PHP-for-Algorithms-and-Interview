@@ -17,4 +17,18 @@ For example:
 
 "Payment received" is an anagram of "Every cent paid me"
 
+##Array Pair Sum
+Given an integer array, output all the unique pairs that sum up to a specific value k.
+
+So the input:
+
+  pair_sum([[2, 3, 1, 4, 6, 5], 5)
+
+would return 2 pairs:
+
+  (2,3)
+  (1,2)
+
+
+
 
