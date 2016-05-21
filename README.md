@@ -37,6 +37,15 @@ findMe("Hello world. I'm looking for a needle in a long string.", "for")
 Output:  
 25
 
+## String parsing
+
+Given a strings with a separators. Extract all words and print them in a reverse order.
+
+Input:  
+"one,two, three/four/ five"
+
+Output:  
+"five four three two one"
 
 
 
