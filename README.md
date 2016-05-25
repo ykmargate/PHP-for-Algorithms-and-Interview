@@ -69,6 +69,17 @@ Array
     [10] => 55  
 )
 
+## Split name
+Write a function named splitName which takes a user-provided string  
+and returns an array with keys 'firstname' and 'lastname'.  
+Middle name(s) should be included with the first name if present.  
+Examples:
+
+splitName('Josh Moore') // returns array('firstname' => 'Josh',     'lastname' => 'Moore')  
+splitName('Helen R. Ables') // returns array('firstname' => 'Helen R.', 'lastname' => 'Ables')  
+splitName('Shakira') // returns array('firstname' => 'Shakira',  'lastname' => '')
+
+
 
 
 
