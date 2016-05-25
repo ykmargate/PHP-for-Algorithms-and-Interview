@@ -14,11 +14,11 @@ function myPi($accuracy){
 
 function myPi2($accuracy){
     $multiplier = 1;
-    $divosor2 = 1;
+    $divisor = 1;
     for($i = 1; $i <= $accuracy; $i++)
     {
-        $divosor2 += 2;
-        $multiplier = ($i%2 != 0)?($multiplier - 1/$divosor2):($multiplier + 1/$divosor2);
+        $divisor += 2;
+        $multiplier = ($i%2 != 0)?($multiplier - 1/$divisor):($multiplier + 1/$divisor);
     }
     return 4*$multiplier;
 }
