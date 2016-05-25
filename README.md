@@ -79,6 +79,19 @@ splitName('Josh Moore') // returns array('firstname' => 'Josh',     'lastname' =
 splitName('Helen R. Ables') // returns array('firstname' => 'Helen R.', 'lastname' => 'Ables')  
 splitName('Shakira') // returns array('firstname' => 'Shakira',  'lastname' => '')
 
+## Pi calculator
+Given that Pi can be estimated using the function 4 * (1 – 1/3 + 1/5 – 1/7 + …)  
+with more terms giving greater accuracy, write a function that calculates Pi  
+to an accuracy of a specified number of decimal places.  
+Examples:
+ 
+4 * (1 - 1/3) = 2.666666666667  
+4 * (1 - 1/3 + 1/5) = 3.46666666666667  
+4 * (1 - 1/3 + 1/5 - 1/7) = 2.895238095238  
+4 * (1 - 1/3 + 1/5 - 1/7 + 1/9) = 3.339682539682539682
+
+
+
 
 
 
